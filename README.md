@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 23rd, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Megan Hubbard)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we edited code for a car photo gallery to understand the basics of accessing elements and element content and how to add/remove nodes.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://meganalisa11.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned how to create a new element node by using the "createElement" method.)
+2. (Learned how to use certain functions to bring interactive abilities to the page through left and right navigation buttons.)
+3. (Learned how to give the user options of more than three photos through various functions.)
